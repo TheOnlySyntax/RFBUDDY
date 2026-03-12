@@ -1,4 +1,4 @@
-# RF Buddy 0.2v — Web Flasher & Info
+# RF Buddy 0.1v — Web Flasher & Info
 
 **RF Buddy** is a compact, closed-source ESP32-C3 based sub-GHz radio tool designed for security researchers and electronics enthusiasts.  
 This repository hosts the official [GitHub Pages site](https://theonlysyntax.github.io/RF-BUDDY/) with device specifications and the **web-based firmware flasher**.
